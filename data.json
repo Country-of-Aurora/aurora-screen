@@ -1,0 +1,35 @@
+{
+  "latestNews": [
+    {
+      "title": "Aurora Underground",
+      "description": "Aurora Underground starts work on M1, set to open sometime this year."
+    },
+    {
+      "title": "Jasko Travel",
+      "description": "Jasko Travel opens some exciting new cable car lines - TCC, MS1."
+    }
+  ],
+  "activeLines": [
+    {
+      "icon": "tram.png",
+      "lines": [
+        { "color": "#fdb231", "name": "A98" },
+        { "color": "#1b9014", "name": "A101" },
+        { "color": "#0000ff", "name": "J01" }
+      ]
+    },
+    {
+      "icon": "c.png",
+      "lines": [
+        { "color": "#d294bc", "name": "MS1" },
+        { "color": "#9387ed", "name": "TCC" }
+      ]
+    },
+    {
+      "icon": "train.png",
+      "lines": [
+        { "color": "#d43545", "name": "ESL" }
+      ]
+    }
+  ]
+}
