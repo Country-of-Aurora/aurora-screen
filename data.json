@@ -2,11 +2,35 @@
   "latestNews": [
     {
       "title": "Aurora Underground",
-      "description": "Aurora Underground starts work on M1, set to open sometime this year."
+      "description": "Aurora Underground starts work on Eastern Star Line, set to open sometime this year."
     },
     {
       "title": "Jasko Travel",
       "description": "Jasko Travel opens some exciting new cable car lines - TCC, MS1."
+    },
+    {
+      "title": "Aurora Underground",
+      "description": "Eastern Star Line will be formed of four stations: Wildwood Junction, Cranberry Valley, Starlight Junction, and Icefield Park."
+    },
+    {
+      "title": "Aurora Underground",
+      "description": "Elizabeth Line has been announced! This line is currently under early development and will start at Starlight Junction. Construction at Starlight Junction is finished."
+    },
+    {
+      "title": "Skyline Rail (SR)",
+      "description": "The 晶蓝线 Jinglan Line will start construction soon. The line will be formed of 6 stations: Starlight Junction South (a branch of Starlight Junction to the south), Yunshan, Oceanview, Jin Li Yuan, Lakeside Square, Heritage."  
+    },
+    {
+      "title": "Aurora Underground",
+      "description": "Eastern Star Line to be opened soon! Construction at Icefield Park is close to being finished."
+    },
+    {
+      "title": "Aurora Overground",
+      "description": "Welcome to Aurora Overground, an upcoming branch of the National Railway Company of Aurora (NRCA), looking to bring commuter rail to Country of Aurora!"
+    },
+    {
+      "title": "Alpine Link (AL)",
+      "description": "Welcome to Alpine Link, a subsidiary of Alpine Railways, looking to bring high speed services to connect Country of Aurora with others!"
     }
   ],
   "activeLines": [
